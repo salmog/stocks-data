@@ -1,4 +1,4 @@
-# cat daily_qqq_fetch_all_timeframe_data.py
+
 # daily_stock_fetch_all_timeframe_data.py
 # Fetches historical data for multiple stock tickers (e.g., QQQ, AAPL, MSFT) for multiple timeframes
 # (daily, 4h, weekly) using yfinance, updates existing CSV files in ticker-specific subdirectories,
